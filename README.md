@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-rana&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-rana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-rana" alt="keshav-rana" /></a> </p>
-
 - 🔭 I’m currently working on **personal projects that focus on real-world applications.**
 
 - 👯 I’m always open to collaborate on **open source projects** and **any other interesting projects that solve a real-world problem.**
