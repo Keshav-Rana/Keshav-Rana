@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Rana</h1>
 <h3 align="center">A software developer with expertise in backend systems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-rana" alt="keshav-rana" /></a> </p>
-
 - 🔭 I’m currently working on **personal projects that focus on real-world applications**
 
 - 👯 I’m looking to collaborate on **open source projects and any other interesting projects that solve a real-world problem.**
