@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Keshav Rana</h1>
-<h3 align="center">A software developer with expertise in backend systems.</h3>
+<h3 align="center">A software developer with expertise in building production-ready scalable backend systems.</h3>
 
-- 🔭 I’m currently working on **personal projects that focus on real-world applications**
+- 🔭 I work on **personal projects that focus on real-world applications** from time to time.
 
-- 👯 I’m looking to collaborate on **open source projects and any other interesting projects that solve a real-world problem.**
+- 👯 I’m looking for new opportunities in **Software Engineering.**
 
 - 👨‍💻 All of my projects are available at [Keshav-Rana.github.io](Keshav-Rana.github.io)
 
-- 💬 Ask me about **Salesforce Administration, Development, Microsoft Technologies such as C#, .NET, Azure**
+- 💬 Ask me about **Software Engineering - Microservices, Azure, Salesforce, API Development, Agentic AI.**
 
 - 📫 How to reach me **krana1583@gmail.com**
 
