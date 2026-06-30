@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Rana</h1>
 <h3 align="center">A software developer with expertise in building production-ready scalable backend systems.</h3>
 
-- 💬 Ask me about **Software Engineering - Microservices, Azure, Salesforce, ServiceNow API Development, Agentic AI.**
+- 💬 Ask me about **Software Engineering - Microservices, Azure, Salesforce, ServiceNow, API Development, Agentic AI.**
 
 - 📫 How to reach me **krana1583@gmail.com**
 
